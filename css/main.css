@@ -10,7 +10,7 @@ body {
 .container {
     position: relative;
     width: 1000px;
-    box-shadow: 0 0 8px black;
+    box-shadow: 0 0 8px rgb(206, 21, 21);
     height: 600px;
     margin: 50px auto;
     overflow: hidden;
@@ -28,7 +28,7 @@ body {
 .intro-2 {
     position: absolute;
     top: 0px;
-    left: 200px;
+    left: 100px;
 }
 .intro-3 {
     position: absolute;
